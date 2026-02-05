@@ -1,0 +1,13 @@
+from PIL import Image
+img = Image.open('my.jpg')
+img.show()
+img.resize((2000, 2000)).show()
+img.rotate(180).show()
+grey = img.convert('L')
+grey.show()
+img1= Image.open('grey.jpg')
+img1.convert('RGB').show()
+img.convert('1').show()
+img1.convert('RGBA').show()
+#grey.save('BW.jpg')
+img.crop((20, 1250, 2500, 3900)).show()
