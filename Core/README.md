@@ -16,8 +16,8 @@ This folder contains **core Python concepts** provided in **two formats** for fl
 
 ## 🎯 How to Use This Folder
 
-- Use **`Files.ipynb`** files when learning or revising concepts interactively  
-- Use **`Files.py`** files to see concise, executable implementations  
+- Use **`File.ipynb`** folder which has `.ipynb` files when learning or revising concepts interactively  
+- Use **`Files`** folder which has `.py` files to see concise, executable implementations  
 - Topics are organized in a **progressive order**, starting from basics and moving to advanced concepts  
 
 This folder serves as a **foundation for Python programming** and is intended for beginners and revision-focused learners.
