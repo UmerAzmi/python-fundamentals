@@ -1,3 +1,7 @@
+# 📘 Python Learning Notes
+ These files contain core Python concepts in Jupyter Notebook (.ipynb) format.  
+ Each numbered file is organized as a learning guide, and the contents are listed below:
+
 ## 1 (Basic) Includes:
 - Data types
 - Conversion of data types
@@ -12,22 +16,16 @@
 - For
 - While
 
-## 3 (Operations) Includes:
+## 3 (Extra Data types / collections/ Operations) Includes:
 - List
 - List Comprehension
-- Tuples
+- tuples
 - Iteration by items
-- String methods (.find, .Count())
-- Slice Operator
-
-## 3A (Extra Data types / collections) Includes:
-- List
-- Tuples
 - Sets
-
-## 3B (Extra Data types / collections) Includes:
 - Dictionary
 - Collection.Counter
+- String methods (.find, .Count())
+- Slice Operator
 
 ## 4 (Function and text files) Includes:
 - Functions
