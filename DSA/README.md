@@ -1,15 +1,15 @@
-# 📂 Data Structures & Algorithms (DSA)
+# Data Structures & Algorithms (DSA)
 
 This folder contains my **DSA learning notes and practice implementations in Python**.  
 The content is written using both **Python scripts (`.py`)** and **Jupyter Notebooks (`.ipynb`)** for clear understanding and practice.
 
-> ⚠️ **Note:** This DSA section is **partially documented**.  
+> **Note:** This DSA section is **partially documented**.  
 > While I have learned additional DSA concepts beyond what is listed here, they are not yet properly organized or documented.  
 > This section will be updated as the notes and files are structured more clearly.
 
 ---
 
-## 🐍 Python Files (`.py`)
+## Python Files (`.py`)
 
 ### dsa_1 (Basics & Patterns)
 Includes:
@@ -36,7 +36,7 @@ Includes:
 
 ---
 
-## 📘 Jupyter Notebook Files (`.ipynb`)
+## Jupyter Notebook Files (`.ipynb`)
 
 ### 1.ipynb
 Includes:
