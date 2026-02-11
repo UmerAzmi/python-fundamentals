@@ -1,4 +1,4 @@
-# OpenCV (Computer Vision)
+# 📷 OpenCV (Computer Vision)
 
 This folder contains my learning and implementation of **OpenCV in Python** for basic computer vision tasks.
 
