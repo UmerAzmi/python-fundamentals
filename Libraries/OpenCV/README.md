@@ -28,6 +28,19 @@ The notebook is written in a step-by-step format for learning and experimentatio
 
 ---
 
+## ⚠️ Notebook Preview Issue
+
+GitHub may sometimes show **"Unable to render code block"** for `.ipynb` files.
+
+If the notebook does not preview correctly:
+- Download the file
+- Open it using **Jupyter Notebook** or **JupyterLab**
+- Or run it inside **VS Code/PyCharm (with Python extension installed)**
+
+This ensures the notebook runs properly with all outputs visible.
+
+---
+
 ## 🎯 Purpose of This Section
 
 - Understand fundamentals of computer vision
