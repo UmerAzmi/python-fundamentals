@@ -13,7 +13,7 @@ Matplotlib is commonly used for:
 
 ## 📘 File Included
 
-### Matplotlib_Basics.ipynb
+### 1.ipynb
 
 This notebook covers:
 

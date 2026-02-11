@@ -13,7 +13,7 @@ OpenCV (Open Source Computer Vision Library) is used for:
 
 ## 📘 File Included
 
-### OpenCV_Basics.ipynb
+### 1.ipynb
 
 This notebook covers:
 

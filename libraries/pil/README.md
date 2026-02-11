@@ -14,7 +14,7 @@ Pillow is commonly used for:
 
 ## 📘 File Included
 
-### PIL_Basics.ipynb
+### 1.ipynb
 
 This notebook covers:
 
