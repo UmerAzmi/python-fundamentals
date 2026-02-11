@@ -1,6 +1,6 @@
 # 📘 Python Learning Notes
 
-This repository contains **core Python concepts** written as **Jupyter Notebook (.ipynb)** files.  
+This repository contains **core Python concepts** written as **Python (.py)** files.  
 Each numbered notebook represents a structured learning module, created as personal notes for **easy revision and long-term reference**.
 
 These notes also showcase my **learning approach, organization, and progression** in Python.
@@ -35,11 +35,19 @@ Includes:
 - List Comprehension  
 - Tuples  
 - Iteration by Items  
-- Sets  
-- Dictionaries  
-- `collections.Counter`  
 - String Methods (`.find()`, `.count()`)  
 - Slice Operator  
+
+### 3A Extra Data Types / Collections 
+Includes:
+- Lists
+- Tuple
+- Sets
+
+### 3B Extra Data Types / Collections
+Includes:
+- Dictionaries  
+- `collections.Counter`  
 
 ---
 
@@ -117,14 +125,6 @@ Includes:
 - `reverse()`  
 - `split()`  
 - `join()`  
-- `index()`  
-- `abs()`  
-- `isinstance()`  
-- `replace()`  
-- `bin()`  
-- `capitalize()`  
-- `title()`  
-- `isalpha()`  
 
 ---
 
