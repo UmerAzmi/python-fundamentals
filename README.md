@@ -1,6 +1,6 @@
 # 🐍 Python Learning Repository
 
-This repository contains my structured learning journey in Python, organized into three main sections:
+This repository contains my structured learning journey in Python with each file having a explaination in them as a comment, and the repository is organized into three main sections:
 
 - 📘 Core Concepts
 - 🧠 Data Structures & Algorithms (DSA)
